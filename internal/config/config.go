@@ -24,7 +24,7 @@ const (
 	defaultModel       = "mistral-large-latest"
 	defaultMediumModel = "mistral-medium-latest"
 	defaultSmallModel  = "mistral-small-latest"
-	defaultAutoModel   = "ministral-8b-latest"
+	defaultAutoModel   = "mistral-small-latest"
 	defaultMaxTokens   = 32768
 )
 
